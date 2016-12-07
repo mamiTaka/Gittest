@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     //コメント
     
-    aaaaaaaaaaaaaaaaaa
+    //aaaaaaaaaaaaaaaaaa
     
     override func viewDidLoad() {
         super.viewDidLoad()
